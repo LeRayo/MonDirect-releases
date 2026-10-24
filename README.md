@@ -27,7 +27,8 @@ Avant une **première** installation (aucune signature de référence sur l'appa
 
 - compare l'empreinte du fichier à la ligne de `SHA256SUMS` de la release : `sha256sum MonDirect.apk` ;
 - vérifie l'empreinte SHA-256 du certificat de signature : `apksigner verify --print-certs MonDirect.apk` doit
-  afficher l'empreinte publiée dans les notes de la première release.
+  afficher :
+  `CA:55:A9:82:2E:3D:CF:29:BF:9C:2D:B4:EC:0A:60:07:F8:B4:0C:E9:87:BE:EC:49:E9:1E:6D:6A:C5:56:3D:BC`.
 
 `MonDirect.apk` est une copie octet pour octet de `mondirect-<version>.apk` (même ligne dans `SHA256SUMS`).
 
@@ -65,7 +66,7 @@ Before a **first** installation (the device has no reference signature yet):
 
 - compare the file's hash with the release's `SHA256SUMS` line: `sha256sum MonDirect.apk`;
 - check the SHA-256 fingerprint of the signing certificate: `apksigner verify --print-certs MonDirect.apk` must show
-  the fingerprint published in the first release notes.
+  `CA:55:A9:82:2E:3D:CF:29:BF:9C:2D:B4:EC:0A:60:07:F8:B4:0C:E9:87:BE:EC:49:E9:1E:6D:6A:C5:56:3D:BC`.
 
 `MonDirect.apk` is a byte-for-byte copy of `mondirect-<version>.apk` (same line in `SHA256SUMS`).
 
