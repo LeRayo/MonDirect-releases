@@ -6,6 +6,13 @@
 
 ## Français
 
+### 0.1.1 — 2026-10-24
+
+- Bloc « Soutenir MonDirect » dans Réglages > À propos : liens Buy Me a Coffee et PayPal (boutons sur téléphone, QR à
+  scanner sur TV). Un don aide à payer le temps de développement, sans contrepartie : rien n'est réservé aux donateurs.
+- TV : le tiroir de navigation distingue mieux la destination courante de l'entrée focalisée.
+- Première mise à jour servie par l'app elle-même (Réglages > Mises à jour).
+
 ### 0.1.0 — 2026-10-24
 
 Première version publique. MonDirect est un client Twitch libre (GPL-3.0-or-later) pour Android TV et téléphone : un
@@ -42,6 +49,13 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.1 — 2026-10-24
+
+- "Support MonDirect" block in Settings > About: Buy Me a Coffee and PayPal links (buttons on phone, QR code to scan on
+  TV). A donation helps pay for development time, with nothing in return: no feature is reserved for donors.
+- TV: the navigation drawer now tells the current destination apart from the focused entry.
+- First update delivered by the app itself (Settings > Updates).
 
 ### 0.1.0 — 2026-10-24
 
