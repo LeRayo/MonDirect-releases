@@ -11,7 +11,7 @@ contient pas de code : seulement les versions publiées (APK, archive source, `u
 
 ### Installer sur une TV
 
-1. Installe l'app **Downloader** (Play Store sur Google TV et Android TV, Amazon Appstore sur Fire TV).
+1. Installe l'app gratuite **Downloader by AFTVnews** : [Play Store](https://play.google.com/store/apps/details?id=com.esaba.downloader) sur Google TV et Android TV, [Amazon Appstore](https://www.amazon.fr/dp/B01N0BK4WE) sur Fire TV.
 2. Dans Downloader, saisis l'adresse **`mondirect.fr/tv`**.
 3. Ou saisis le code Downloader **`8087901`**.
 4. En secours (site indisponible) :
@@ -50,7 +50,7 @@ and the privacy policy.
 
 ### Install on a TV
 
-1. Install the **Downloader** app (Play Store on Google TV and Android TV, Amazon Appstore on Fire TV).
+1. Install the free **Downloader by AFTVnews** app: [Play Store](https://play.google.com/store/apps/details?id=com.esaba.downloader) on Google TV and Android TV, [Amazon Appstore](https://www.amazon.com/dp/B01N0BK4WE) on Fire TV.
 2. In Downloader, enter the address **`mondirect.fr/tv`**.
 3. Or enter the Downloader code **`8087901`**.
 4. Fallback (site unavailable):
