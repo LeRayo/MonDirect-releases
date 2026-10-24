@@ -13,7 +13,7 @@ contient pas de code : seulement les versions publiées (APK, archive source, `u
 
 1. Installe l'app **Downloader** (Play Store sur Google TV et Android TV, Amazon Appstore sur Fire TV).
 2. Dans Downloader, saisis l'adresse **`mondirect.fr/tv`**.
-3. Ou saisis le code Downloader (publié ici dès sa création).
+3. Ou saisis le code Downloader **`8087901`**.
 4. En secours (site indisponible) :
    `https://github.com/LeRayo/MonDirect-releases/releases/latest/download/MonDirect.apk`
 
@@ -52,7 +52,7 @@ and the privacy policy.
 
 1. Install the **Downloader** app (Play Store on Google TV and Android TV, Amazon Appstore on Fire TV).
 2. In Downloader, enter the address **`mondirect.fr/tv`**.
-3. Or enter the Downloader code (published here once created).
+3. Or enter the Downloader code **`8087901`**.
 4. Fallback (site unavailable):
    `https://github.com/LeRayo/MonDirect-releases/releases/latest/download/MonDirect.apk`
 
