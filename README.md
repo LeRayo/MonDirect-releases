@@ -35,7 +35,7 @@ Avant une **première** installation (aucune signature de référence sur l'appa
 ### Code source
 
 MonDirect est un logiciel libre sous licence GPL-3.0-or-later (`LICENSE`). Chaque release porte son archive source
-complète, `mondirect-<version>-source.tar.gz`, dans ses fichiers joints.
+complète, `mondirect-<version>-source.tar.gz`, dans ses fichiers joints. Historique des versions : `CHANGELOG.md`.
 
 ### Non-affiliation
 
@@ -73,7 +73,7 @@ Before a **first** installation (the device has no reference signature yet):
 ### Source code
 
 MonDirect is free software under the GPL-3.0-or-later (`LICENSE`). Every release carries its complete source archive,
-`mondirect-<version>-source.tar.gz`, in its attached files.
+`mondirect-<version>-source.tar.gz`, in its attached files. Version history: `CHANGELOG.md`.
 
 ### Not affiliated
 
