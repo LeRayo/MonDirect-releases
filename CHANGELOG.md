@@ -6,6 +6,17 @@
 
 ## Français
 
+### 0.1.2 — 2026-10-26
+
+- Le compte Twitch devient facultatif : « Continuer sans compte » sur l'écran de connexion. Directs populaires,
+  catégories, recherche, pages de chaîne, directs, rediffusions, clips et lecture du chat fonctionnent sans se connecter ;
+  le choix est mémorisé.
+- Là où le compte reste nécessaire (chaînes suivies, suivre une chaîne, écrire dans le chat, alertes), une invite
+  « Connexion » prend la place de la fonction.
+- Sans compte, le catalogue vient de l'interface web de Twitch : une seule page par liste (30 directs, 100 catégories,
+  rediffusions ou clips) et pas de badges dans le chat. Avec un compte, rien ne change.
+- L'introduction au premier lancement explique ce qui marche avec ou sans compte.
+
 ### 0.1.1 — 2026-10-24
 
 - Bloc « Soutenir MonDirect » dans Réglages > À propos : liens Buy Me a Coffee et PayPal (boutons sur téléphone, QR à
@@ -49,6 +60,17 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.2 — 2026-10-26
+
+- The Twitch account is now optional: "Continue without an account" on the sign-in screen. Popular streams,
+  categories, search, channel pages, streams, videos, clips and reading chat all work without signing in; the choice is
+  remembered.
+- Where an account is still required (followed channels, following a channel, writing in chat, alerts), a "Sign in"
+  prompt takes the feature's place.
+- Without an account, the catalogue comes from Twitch's web interface: a single page per list (30 streams, 100
+  categories, videos or clips) and no badges in chat. With an account, nothing changes.
+- The first-launch introduction explains what works with and without an account.
 
 ### 0.1.1 — 2026-10-24
 
