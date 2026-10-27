@@ -6,6 +6,17 @@
 
 ## Français
 
+### 0.1.3 — 2026-10-27
+
+- Chaînes soutenues : par défaut, les proxys s'appliquent à toutes les chaînes. Un bouton « Soutenir », à côté de
+  l'étoile des favoris sur la page de chaîne et dans le lecteur (téléphone et TV), ajoute une chaîne à la liste des
+  chaînes soutenues : son direct est lu directement depuis Twitch, sans proxy ni contournement des coupures, pour que
+  les publicités passent et que le créateur les touche. Un bandeau le rappelle au lancement de la lecture.
+- La liste se gère dans Réglages > Proxys > Chaînes soutenues (retirer une chaîne, tout retirer). Elle est exportée,
+  importée et appairée vers la TV comme les favoris.
+- La fonction se coupe dans Personnalisation ; sur TV, un raccourci de télécommande peut soutenir ou ne plus soutenir
+  la chaîne en cours.
+
 ### 0.1.2 — 2026-10-26
 
 - Le compte Twitch devient facultatif : « Continuer sans compte » sur l'écran de connexion. Directs populaires,
@@ -60,6 +71,17 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.3 — 2026-10-27
+
+- Supported channels: by default, proxies apply to every channel. A "Support" button, next to the favourite star on
+  the channel page and in the player (phone and TV), adds a channel to the supported list: its stream is played
+  straight from Twitch, with no proxy and no outage workaround, so ads play and the creator gets them. A banner
+  reminds you when playback starts.
+- The list is managed in Settings > Proxies > Supported channels (remove one channel, remove all). It is exported,
+  imported and paired to the TV like favourites.
+- The feature can be turned off in Customisation; on TV, a remote shortcut can support or stop supporting the current
+  channel.
 
 ### 0.1.2 — 2026-10-26
 
