@@ -65,6 +65,9 @@ réglages, jamais transféré par l'appairage, exclu des sauvegardes Android.
   « Actualiser la liste » dans « Choisir dans la liste » (jamais au lancement ni en arrière-plan), une requête sans
   authentification télécharge la liste de proxys suggérés de la dernière version stable. Elle est gardée sur l'appareil,
   hors des sauvegardes et de l'export ; rien n'est ajouté ni activé sans votre « Ajouter ».
+- **Buy Me a Coffee et PayPal** (liens de don dans Réglages > « Soutenir MonDirect », seulement si cette version les inclut) : rien n'est
+  contacté tant que **vous** n'ouvrez pas le lien (téléphone) ou ne scannez pas le QR (TV). Le don se fait sur leur site,
+  dans votre navigateur ; MonDirect n'en sait rien et ne réserve rien aux donateurs.
 
 ### Code source et contact
 
@@ -128,6 +131,9 @@ transferred by pairing, excluded from Android backups.
   from the list" (never at launch or in the background), an unauthenticated request downloads the suggested proxy list
   of the latest stable version. It is kept on the device, out of backups and exports; nothing is added or turned on
   without your "Add".
+- **Buy Me a Coffee and PayPal** (donation links in Settings > "Support MonDirect", only if this build includes them): nothing is contacted
+  until **you** open the link (phone) or scan the QR code (TV). The donation happens on their site, in your browser;
+  MonDirect knows nothing about it and reserves nothing for donors.
 
 ### Source code and contact
 

@@ -6,6 +6,11 @@
 
 ## Français
 
+### 0.1.7 — 2026-11-12
+
+- Réglages : « Soutenir MonDirect » a maintenant sa propre section, juste avant « À propos ». Les liens de don Buy Me a
+  Coffee et PayPal y sont, avec un QR code à scanner sur TV. Rien n'est réservé aux donateurs.
+
 ### 0.1.6 — 2026-11-11
 
 - Nouveau logo : un écran avec le triangle de lecture et le point rouge du direct. Il remplace l'ancien partout : icône
@@ -103,6 +108,11 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.7 — 2026-11-12
+
+- Settings: "Support MonDirect" now has its own section, right before "About". It holds the Buy Me a Coffee and PayPal
+  donation links, with a QR code to scan on TV. No feature is reserved for donors.
 
 ### 0.1.6 — 2026-11-11
 
