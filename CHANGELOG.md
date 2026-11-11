@@ -6,6 +6,16 @@
 
 ## Français
 
+### 0.1.5 — 2026-11-11
+
+- Direct en différé : le chat suit maintenant la vidéo. Quand tu remontes dans un direct, le chat affiche les messages
+  du moment que tu regardes, au rythme de la lecture ; un bandeau « Chat au moment de la vidéo » le rappelle.
+- Le chat est alors en lecture seule : « Revenir au direct pour écrire » ramène au direct, où le chat du direct t'attend.
+- Si le chat du passé n'est pas disponible, ou si le chat rejoué est coupé dans Personnalisation, le chat reste celui du
+  direct avec le bandeau « Chat en direct, vidéo en différé », comme avant.
+- Problème connu : sur TV, sans compte et avec le chat affiché, la touche OK dans le lecteur peut ouvrir l'écran de
+  connexion au lieu des commandes. En attendant le correctif, désactive « Afficher le chat par défaut » dans les Réglages.
+
 ### 0.1.4 — 2026-11-11
 
 - Direct en différé : une barre du direct apparaît dans le lecteur (téléphone et TV). Elle permet de remonter dans le
@@ -86,6 +96,16 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.5 — 2026-11-11
+
+- Live rewind: the chat now follows the video. When you go back in a live stream, the chat shows the messages from the
+  moment you are watching, at playback pace; a "Chat as it was at this point" banner says so.
+- The chat is read-only then: "Return to live to chat" takes you back to live, where the live chat is waiting.
+- If the past chat is not available, or if chat replay is turned off in Customisation, the chat stays the live one with
+  the "Live chat, delayed video" banner, as before.
+- Known issue: on TV, without an account and with the chat shown, the OK key in the player may open the sign-in screen
+  instead of the controls. Until this is fixed, turn off "Show chat by default" in Settings.
 
 ### 0.1.4 — 2026-11-11
 
