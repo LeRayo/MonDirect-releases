@@ -6,6 +6,13 @@
 
 ## Français
 
+### 0.1.6 — 2026-11-11
+
+- Nouveau logo : un écran avec le triangle de lecture et le point rouge du direct. Il remplace l'ancien partout : icône
+  de l'application, écran de démarrage, bannière sur TV, site.
+- Problème connu : sur TV, sans compte et avec le chat affiché, la touche OK dans le lecteur peut ouvrir l'écran de
+  connexion au lieu des commandes. En attendant le correctif, désactive « Afficher le chat par défaut » dans les Réglages.
+
 ### 0.1.5 — 2026-11-11
 
 - Direct en différé : le chat suit maintenant la vidéo. Quand tu remontes dans un direct, le chat affiche les messages
@@ -96,6 +103,13 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.6 — 2026-11-11
+
+- New logo: a screen with the play triangle and the red live dot. It replaces the old one everywhere: app icon, startup
+  screen, TV banner, website.
+- Known issue: on TV, without an account and with the chat shown, the OK key in the player may open the sign-in screen
+  instead of the controls. Until this is fixed, turn off "Show chat by default" in Settings.
 
 ### 0.1.5 — 2026-11-11
 
