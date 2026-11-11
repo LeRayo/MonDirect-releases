@@ -6,6 +6,21 @@
 
 ## Français
 
+### 0.1.4 — 2026-11-11
+
+- Direct en différé : une barre du direct apparaît dans le lecteur (téléphone et TV). Elle permet de remonter dans le
+  direct en cours, jusqu'à son début, puis de revenir au direct d'un appui sur « Revenir au direct ». Des sauts de
+  10 secondes sont proposés en différé ; sur TV, les touches rembobinage et avance rapide de la télécommande sautent de
+  30 secondes.
+- Le chat reste celui du direct, un bandeau le rappelle. Après une longue pause, la lecture reprend au direct et propose
+  de reprendre où tu t'étais arrêté. Sur téléphone, le mini-lecteur et la notification suivent le différé.
+- Le différé s'appuie sur la rediffusion que Twitch enregistre pendant le direct : si la chaîne n'en a pas, ou la
+  réserve à ses abonnés, la barre est grisée et en donne la raison. Il n'est pas disponible en multivue. La fonction se
+  coupe dans Personnalisation.
+- Problème connu : sur TV, sans compte et avec le chat affiché, la touche OK dans le lecteur peut ouvrir l'écran de
+  connexion au lieu des commandes. En attendant le correctif, désactive « Afficher le chat par défaut » dans les
+  Réglages.
+
 ### 0.1.3 — 2026-10-27
 
 - Chaînes soutenues : par défaut, les proxys s'appliquent à toutes les chaînes. Un bouton « Soutenir », à côté de
@@ -71,6 +86,19 @@ Aucun compte MonDirect, aucune statistique envoyée, aucun serveur entre l'appar
 par l'utilisateur. Détails : `PRIVACY.md`.
 
 ## English
+
+### 0.1.4 — 2026-11-11
+
+- Live rewind: a live bar now shows in the player (phone and TV). It lets you go back in the current stream, all the
+  way to its start, then return to live with "Back to live". While rewound you can jump by 10 seconds; on TV, the
+  rewind and fast-forward keys of the remote jump by 30 seconds.
+- The chat stays the live one, and a banner says so. After a long pause, playback resumes live and offers to pick up
+  where you stopped. On phone, the mini player and the notification follow the rewind.
+- Rewind relies on the past broadcast Twitch records during the stream: if the channel has none, or keeps it for
+  subscribers, the bar is greyed out and says why. It is not available in multiview. The feature can be turned off in
+  Customisation.
+- Known issue: on TV, without an account and with the chat shown, the OK key in the player may open the sign-in screen
+  instead of the controls. Until this is fixed, turn off "Show chat by default" in Settings.
 
 ### 0.1.3 — 2026-10-27
 
